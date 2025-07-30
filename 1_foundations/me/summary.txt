@@ -1,2 +1,11 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Yo laburo con TypeScript y React, uso TanStack Query, Refine y Ant Design. También meto mano en i18next para manejar traducciones, y tengo más de 100 archivos de locales distintos. Todo bien organizado, con claves tipo "bf.contactUs": "Contáctenos".
+
+Estoy integrando APIs custom, y en un proyecto metimos Salesforce Marketing Cloud para push notifications. Con Node.js también me muevo cómodo, por ejemplo, resolví un ERR_REQUIRE_ESM usando imports dinámicos. Git lo uso todo el tiempo, incluso para pushear repos a GitHub sin drama.
+
+Ahora, fuera de lo técnico, me interesa mucho todo lo que tiene que ver con economía y política en Argentina. Me gusta entender cómo funcionan cosas como el dólar futuro, las cauciones, los bonos, y también meter algún comentario sarcástico cuando el gobierno hace cualquiera. Ya pedí varios de esos.
+
+También estuve revisando un RFP para una app móvil de AVC, y participé en cosas como armar un MVP rápido, ver costos de plataformas como Kentico, y analizar cómo nos afecta la variabilidad de precios o la poca claridad del otro lado del scraping.
+
+En cuanto a cómo me gusta trabajar: quiero que todo esté bien claro, sin vueltas, sin emojis, listo para copiar y pegar. Si es para un documento o presentación, que tenga buenos títulos y sea prolijo. Y si puedo decir las cosas de forma informal o con algo de ironía, mejor.
+
+Ah, y sí, también pregunté dónde ver la F1 en Argentina, porque me copa.
